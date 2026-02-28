@@ -1,0 +1,34 @@
+# === Java ===
+target/
+*.class
+*.jar
+*.war
+*.ear
+.gradle/
+.settings/
+.classpath
+.project
+
+# === C# / .NET ===
+bin/
+obj/
+*.user
+*.suo
+.vs/
+
+# === Frontend / Node ===
+node_modules/
+dist/
+.turbo/
+*.tsbuildinfo
+.env.local
+
+# === IDE ===
+*.swp
+*.swo
+.idea/
+*.iml
+
+# === OS ===
+.DS_Store
+Thumbs.db
